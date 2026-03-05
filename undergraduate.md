@@ -50,7 +50,7 @@
 
 ### Assignments
 
-- Submission should be made to Google Classroom
+- Submission should be made at GitHub Classroom
 - Programming processes are committed at GitHub
 - Late submissions result in the zero score
 - Failure (no submission or zero score) of half or more assignments results in the fail of the class
